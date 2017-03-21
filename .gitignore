@@ -1,0 +1,6 @@
+.fake/
+.paket/
+packages/
+bin/
+obj/
+*.suo
